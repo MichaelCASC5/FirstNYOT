@@ -12,6 +12,6 @@ p{
 span{
     color: blue;
 }
-ul{
+ul, ol{
     text-align: left;
 }
