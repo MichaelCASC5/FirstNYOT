@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background: green;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 19px;
+}
+span{
+    color: blue;
+}
+ul{
+    text-align: left;
+}
